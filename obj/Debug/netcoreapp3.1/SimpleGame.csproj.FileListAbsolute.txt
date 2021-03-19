@@ -1,0 +1,13 @@
+C:\Users\lbrown4\dev\Week2\SimpleGame\bin\Debug\netcoreapp3.1\SimpleGame.exe
+C:\Users\lbrown4\dev\Week2\SimpleGame\bin\Debug\netcoreapp3.1\SimpleGame.deps.json
+C:\Users\lbrown4\dev\Week2\SimpleGame\bin\Debug\netcoreapp3.1\SimpleGame.runtimeconfig.json
+C:\Users\lbrown4\dev\Week2\SimpleGame\bin\Debug\netcoreapp3.1\SimpleGame.runtimeconfig.dev.json
+C:\Users\lbrown4\dev\Week2\SimpleGame\bin\Debug\netcoreapp3.1\SimpleGame.dll
+C:\Users\lbrown4\dev\Week2\SimpleGame\bin\Debug\netcoreapp3.1\SimpleGame.pdb
+C:\Users\lbrown4\dev\Week2\SimpleGame\obj\Debug\netcoreapp3.1\SimpleGame.csprojAssemblyReference.cache
+C:\Users\lbrown4\dev\Week2\SimpleGame\obj\Debug\netcoreapp3.1\SimpleGame.AssemblyInfoInputs.cache
+C:\Users\lbrown4\dev\Week2\SimpleGame\obj\Debug\netcoreapp3.1\SimpleGame.AssemblyInfo.cs
+C:\Users\lbrown4\dev\Week2\SimpleGame\obj\Debug\netcoreapp3.1\SimpleGame.csproj.CoreCompileInputs.cache
+C:\Users\lbrown4\dev\Week2\SimpleGame\obj\Debug\netcoreapp3.1\SimpleGame.dll
+C:\Users\lbrown4\dev\Week2\SimpleGame\obj\Debug\netcoreapp3.1\SimpleGame.pdb
+C:\Users\lbrown4\dev\Week2\SimpleGame\obj\Debug\netcoreapp3.1\SimpleGame.genruntimeconfig.cache
